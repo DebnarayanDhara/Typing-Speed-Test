@@ -38,13 +38,13 @@ typing-speed-test/
 Clone the repository:
 
 ```bash
-git clone https://github.com/DebnarayanDhara/Typing-Speed-Test.git
+https://github.com/DebnarayanDhara/Typing-Speed-Test
 ```
 
 Go to the project folder:
 
 ```bash
-cd typing-speed-test
+cd Typing-Speed-Test
 ```
 
 Run the program:
